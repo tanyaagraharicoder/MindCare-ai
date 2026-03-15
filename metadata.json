@@ -1,0 +1,5 @@
+{
+  "name": "MindCare AI",
+  "description": "Intelligent Mental Health Assistant with AI emotion analysis, mood tracking, and guided meditation.",
+  "requestFramePermissions": ["microphone"]
+}
